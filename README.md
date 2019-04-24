@@ -61,7 +61,7 @@ MODEL划分：
 
 * [React](https://reactjs.org/)
 * [Next.js](https://nextjs.org/)
-* [MobX](https://mobx.js.org/)
+* [DvaJs](https://dvajs.com/)
 * [Ant Design Mobile](https://mobile.ant.design)
 
 
