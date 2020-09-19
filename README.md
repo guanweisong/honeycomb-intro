@@ -9,7 +9,6 @@
 
 技术栈：
 
-* [React](https://reactjs.org/)
 * [Egg.js](https://eggjs.org/)
 
 MODEL划分：
@@ -39,7 +38,7 @@ MODEL划分：
 
 * [React](https://reactjs.org/)
 * [UmiJS](https://umijs.org/)
-* [DvaJs](https://dvajs.com/)
+* [Hox](https://github.com/umijs/hox)
 * [AntD](https://ant.design/)
 
 #### 2.3、[honeycomb-pc](https://github.com/guanweisong/honeycomb-pc)
@@ -50,18 +49,17 @@ MODEL划分：
 
 * [React](https://reactjs.org/)
 * [UmiJS](https://umijs.org/)
-* [DvaJs](https://dvajs.com/)
+* [Hox](https://github.com/umijs/hox)
 * [AntD](https://ant.design/)
 
 #### 2.4、[honeycomb-wap](https://github.com/guanweisong/honeycomb-wap)
 
-> 通过[honeycomb-server](https://github.com/guanweisong/honeycomb-server)提供的restful api实现的移动端H5同构应用
+> 通过[honeycomb-server](https://github.com/guanweisong/honeycomb-server)提供的restful api实现的移动端H5纯静态应用
 
 技术栈：
 
 * [React](https://reactjs.org/)
 * [Next.js](https://nextjs.org/)
-* [DvaJs](https://dvajs.com/)
 * [Ant Design Mobile](https://mobile.ant.design)
 
 
