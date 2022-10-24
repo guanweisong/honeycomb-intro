@@ -60,6 +60,7 @@ MODEL划分：
 * [Next.js](https://nextjs.org/)
 * [Ant Design Mobile](https://mobile.ant.design)
 * [Typescript](https://www.typescriptlang.org/)
+* [SWR](https://swr.vercel.app)
 
 > 由[Vercel](https://vercel.com/)托管
 
