@@ -5,13 +5,13 @@
 
 ### 2、子应用
 
-#### 2.1、[honeycomb-server](https://github.com/guanweisong/honeycomb-server)
+#### 2.1、[honeycomb-server](https://github.com/guanweisong/honeycomb-server.serverless)
 
 > 通过mongoose操作mongoDB，对外提供restful形式的api接口。在模块设计上与[Wordpress](https://wordpress.org/)模块结构类似。
 
 技术栈：
 
-* [nestjs](https://nestjs.com/)
+* [Next.js](https://nextjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
 
 MODEL划分：
