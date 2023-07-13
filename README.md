@@ -7,7 +7,7 @@
 
 #### 2.1、[honeycomb-server](https://github.com/guanweisong/honeycomb-server.serverless)
 
-> 通过mongoose操作mongoDB，对外提供restful形式的api接口。在模块设计上与[Wordpress](https://wordpress.org/)模块结构类似。
+> 通过prisma操作mongoDB，对外提供restful形式的api接口。在模块设计上与[Wordpress](https://wordpress.org/)模块结构类似。
 
 技术栈：
 
@@ -42,7 +42,7 @@ MODEL划分：
 技术栈：
 
 * [React](https://reactjs.org/)
-* [UmiJS](https://umijs.org/)
+* [Next.js](https://umijs.org/)
 * [Hox](https://github.com/umijs/hox)
 * [AntD](https://ant.design/)
 * [Typescript](https://www.typescriptlang.org/)
