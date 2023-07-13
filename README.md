@@ -47,6 +47,7 @@ MODEL划分：
 * [AntD](https://ant.design/)
 * [Typescript](https://www.typescriptlang.org/)
 * [ANT DESIGN PRO](https://pro.ant.design/)
+* [Tailwindcss](https://tailwindcss.com)
 
 > 由[Vercel](https://vercel.com/)托管
 
@@ -61,6 +62,7 @@ MODEL划分：
 * [Ant Design Mobile](https://mobile.ant.design)
 * [Typescript](https://www.typescriptlang.org/)
 * [SWR](https://swr.vercel.app)
+* [Tailwindcss](https://tailwindcss.com)
 
 > 由[Vercel](https://vercel.com/)托管
 
