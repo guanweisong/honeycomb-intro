@@ -74,4 +74,8 @@ MODEL划分：
 
 #### 3.2、对象存储
 
-由[腾讯云COS](https://cloud.tencent.com/product/cos)提供
+由[cloudflare R2](https://www.cloudflare.com/developer-platform/r2/)提供
+
+#### 3.3、邮件服务
+
+由[Resend](https://resend.com)提供
